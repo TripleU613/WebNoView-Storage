@@ -1,12 +1,4 @@
-[
-  {
-    "name": "Ad Blocker Preset",
-    "words": ["advertisement", "sponsored", "promo"],
-    "enabled": false
-  },
-  {
-    "name": "Spam Filter Preset",
-    "words": ["free offer", "win prize", "click here"],
-    "enabled": false
-  }
-]
+{
+  "name": "Ad Blocker Preset",
+  "words": ["advertisement", "sponsored", "promo"]
+}
